@@ -7,5 +7,8 @@ Prerequesites :
 Must enable Android Device Verification API in Google Developer Console for your project.
 Must have an API key for device verification generated from Google Developer Console.
 
+Output:
+In Virtual Device [Emulator]
+https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/emulator.png
 
 
