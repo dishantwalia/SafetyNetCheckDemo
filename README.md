@@ -9,6 +9,10 @@ Must have an API key for device verification generated from Google Developer Con
 
 Output:
 In Virtual Device [Emulator]
- ![safetynet](https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/emulator.png)
+ ![safetynetfail](https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/emulator.png)
+ 
+In Real Device which is non rooted and passed all check
+ ![safetynetpass](https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/realdevice.png)
+
 
 
