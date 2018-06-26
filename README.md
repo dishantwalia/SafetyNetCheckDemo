@@ -9,6 +9,6 @@ Must have an API key for device verification generated from Google Developer Con
 
 Output:
 In Virtual Device [Emulator]
-https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/emulator.png
+ ![safetynet](https://github.com/dishantwalia/SafetyNetCheckDemo/blob/master/SafetyNetDemo/emulator.png)
 
 
