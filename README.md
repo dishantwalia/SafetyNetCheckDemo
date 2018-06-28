@@ -6,7 +6,8 @@ In this repo we demonstrate Google Device Verification API by using SafetyNet th
 Prerequesites :
 Must enable Android Device Verification API in Google Developer Console for your project.
 Must have an API key for device verification generated from Google Developer Console.
-Put your project's api key in res->values->strings.xml ->  <string name="api_key">Your API key</string>
+Put your project's api key in: \n
+res->values->strings.xml ->  <string name="api_key">Your API key</string>
 
 Output:
 In Virtual Device [Emulator]
